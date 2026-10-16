@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F6PJE0jFz+4=",
+  "success": true,
+  "projectFilePath": "/home/matvey/Проекты/Учеба/ФУРДУЙ ПРАКТИКА/pr8-9/acc1/pr8-9/pr8-9.csproj",
+  "expectedPackageFiles": [
+    "/home/matvey/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
